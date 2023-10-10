@@ -883,7 +883,7 @@ img {
   color: #4d5ae5;
 }
 
-.modal-check:checked + .modal-label-text .privacy-checkbox {
+.modal-check:checked + label > span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
